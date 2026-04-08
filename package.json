@@ -10,7 +10,7 @@
     "test": "npm run typecheck"
   },
   "dependencies": {
-    "hono": "^4.7.0"
+    "hono": "^4.12.12"
   },
   "devDependencies": {
     "wrangler": "^3.0.0",
