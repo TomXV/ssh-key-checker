@@ -8,3 +8,6 @@ invocation_logs = true
 
 [observability.traces]
 enabled = false
+
+[observability.issues]
+enabled = true
